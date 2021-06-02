@@ -16,19 +16,19 @@ Al finalizar la investigación, los objetivos han de ser identificables con los 
 
 Considerar la Taxonomía de Bloom
 
-#Marco Teorico
+# Marco Teorico
 ![image](https://user-images.githubusercontent.com/84412132/120565750-5fefd100-c3d3-11eb-998a-5f571448fb40.png)
 
 ![image](https://user-images.githubusercontent.com/84587118/120565658-30d95f80-c3d3-11eb-9b6b-bf87c30be24b.png)
 
 
-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+# Explicacion  y resolucion de ejercicios o problemas
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas. La solución deb estar en esta sección, no como un archivo anexo.
 
 VIDEO
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
 
-CONCLUSIONES
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+# Conclusiones
+Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos
 
-BIBLIOGRAFÍA
+# Bibliografia 
