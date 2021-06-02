@@ -1,5 +1,5 @@
 # Informe-Tarea-
-Objetivos
+# Objetivo
 Los objetivos deben responder claramente la pregunta ¿Qué investigar? El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación
 
 Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados.
@@ -16,7 +16,7 @@ Al finalizar la investigación, los objetivos han de ser identificables con los 
 
 Considerar la Taxonomía de Bloom
 
-MARCO TEÓRICO (RESUMEN)
+#Marco Teorico
 ![image](https://user-images.githubusercontent.com/84412132/120565750-5fefd100-c3d3-11eb-998a-5f571448fb40.png)
 
 ![image](https://user-images.githubusercontent.com/84587118/120565658-30d95f80-c3d3-11eb-9b6b-bf87c30be24b.png)
