@@ -477,6 +477,7 @@ c. ¿Cuál es la corriente en aperes?
 34.- ¿Qué se entiende por cd?,¿Y ca?
 
 •	Lo que se entiende por las siglas cd es corriente continua.
+
 •	Lo que se entiende por las siglas ca es corriente alterna.
 
 35.-Considere tres baterías conectadas como en la figura 2-33.
@@ -497,6 +498,9 @@ Si se puede caragar la bateria primaria porque se puede decir que si se descarga
 37.-Una batería especificada en 1 400 mAh suministra 28 mA a una carga. ¿Cuánto tiempo se espera que dure?
 
 38.- ¿Cuál es la vida de servicio aproximada de la celda D de a tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA? ¿Qué concluye de estos resultados? 
+![image](https://user-images.githubusercontent.com/84585835/120619956-1b3f5680-c422-11eb-9c70-c3ac743b20c2.png)
+
+•	Se concluye que a mayor cantidad de consumo de corriente es menor el tiempo de duración y a menor cantidad de consumo de corriente mayor el tiempo de duración.
 
 39.-La batería de la de la figura 2-15 está especificada en 81 Ah a 5°C. ¿Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5 A a -15°C.
 
@@ -506,17 +510,39 @@ Si se puede caragar la bateria primaria porque se puede decir que si se descarga
 2-6 Medición de voltaje y corriente
 
 42.- El voltímetro digital de la figura 2-34 tiene la característica de auto polaridad. Para cada caso, determine su lectura.
+![image](https://user-images.githubusercontent.com/84585835/120620540-addff580-c422-11eb-9142-a48876520b33.png)
 
-43.-La corriente en el circuyo de la figura 2-35 es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente? (a)El medidor 1, (b)el medidor 3(c)ambos.
+•	(a) = 25 V
+
+•	(b) = 25 V
+
+•	(c) = 14 V
+
+•	(d) = 7 V
+
+43.-La corriente en el circuyo de la figura 2-35 es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente? 
+
+**(a)El medidor 1**
+
+(b)el medidor 3
+
+(c)ambos.
+
+![image](https://user-images.githubusercontent.com/84585835/120620897-08795180-c423-11eb-8b09-26ecb92da23b.png)
 
 44.- ¿Cuál es el error en la afirmación de que el voltaje a traves de la lampara de la figura 2.24 es 70.3 V?
 
-45.- ¿Cuál es el erro con el esquema de medición que se muestra en a figura 2-36? Corríjalo.
+45.- ¿Cuál es el error con el esquema de medición que se muestra en a figura 2-36? Corríjalo.
+![image](https://user-images.githubusercontent.com/84585835/120622070-18ddfc00-c424-11eb-81bd-c6e8d6fe7dc2.png)
+
+El error es que se esta midiendo en paralelo la corriente y de debe medir en serie.
 
 46.-Se desea controlar la luz de una lampara mediante dos interruptores, como se indica en la tabla 2-2. Dibuje el circuito requerido.
+![image](https://user-images.githubusercontent.com/84585835/120621979-0663c280-c424-11eb-88d0-ed739f74dc85.png)
 
 47.-Los fusibles tiene una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tiene una especificación de voltaje. ¿Por qué? Surgerencia:lea la sección de aislante, sección 2-1.
 
+•	Esto es  porque al especificar el voltaje y la corriente del fusible no dice cual su resistencia y si sobre pasan este limitante se funde el fusible y deja de hacer la acción de portector. 
 
 # VIDEO
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
