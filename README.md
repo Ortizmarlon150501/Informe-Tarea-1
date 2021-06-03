@@ -1,20 +1,16 @@
-# Informe-Tarea-
+# Informe Tarea 1
+
 # Objetivo
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación
 
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados.
+**Objetivo general:**
 
-Los objetivos de investigación deben cumplir ciertas características:
+Comprender los fundamentos básicos de los circuitos eléctricos los cuales se puede tomar en cuenta como el voltaje,la resistenciapara,intensida,mediciones,fuentes etc, así poder lograr continuar con el estudio de esta materia.
 
-Deben ser concretos, cuantificables, verificables
-Deben estar redactados utilizando verbos en infinitivo
-Deben ser alcanzables por el investigador.
-Tienen que estar ligados con el tiempo.
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos.
+**Objetivo especifico**
 
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos.
+•	Entender los conceptos básicos sobre los sistemas de unidades, notaciones, prefijos, diagramas etc., para lograr llegar a tener una base sobre los circuitos eléctricos y como relacionan estos conceptos entre sí.
+•	Analizar la parte teórica de los dos concepto fundamentales de los circuitos que es el voltaje y la corriente y su aplicabilidad de esta parte teórica en ejercicios y así entender de mejor manera estoy conceptos
 
-Considerar la Taxonomía de Bloom
 
 # Marco Teorico
 # Capitulo 1
@@ -555,7 +551,7 @@ El error es que se esta midiendo en paralelo la corriente y de debe medir en ser
 •	Esto es  porque al especificar el voltaje y la corriente del fusible no dice cual su resistencia y si sobre pasan este limitante se funde el fusible y deja de hacer la acción de portector. 
 
 # VIDEO
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
+https://youtu.be/fE0bMedfo-Y
 
 # Conclusiones
 Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos
