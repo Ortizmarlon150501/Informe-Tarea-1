@@ -405,52 +405,81 @@ e. Un electrón y un neutrón separados 5.7x10^(-11)
 ![image](https://user-images.githubusercontent.com/84585835/120601817-03f76d80-c410-11eb-9630-cab10cd111ef.png)
 
 21.- ¿Cuánta energía adquiere una carga de 0.5 μC conforme se mueve a través de una diferencia de potencial de 8.5kV?
-![image](https://user-images.githubusercontent.com/84585835/120602621-d19a4000-c410-11eb-8946-8c600ee1905f.png)
+![image](https://user-images.githubusercontent.com/84585835/120604380-9f89dd80-c412-11eb-8d3f-8609971e5983.png)
 
 22.-Si el voltaje entre dos puntos es de 100V, ¿Cuánta energía se requiere para mover un electrón entre los dos puntos?
 ![image](https://user-images.githubusercontent.com/84585835/120602918-16be7200-c411-11eb-992c-d8fd7574f9e1.png)
 
 23.-Dado un voltaje de 12V para la batería de la figura 2-1, ¿Cuánta carga se mueve a través de a lampara si se requieren 57 J de energía para moverla?
-2-4 Corriente
+![image](https://user-images.githubusercontent.com/84585835/120603565-cc89c080-c411-11eb-9185-572d3c968bf0.png)
+
+**2-4 Corriente**
 
 24.-Para el circuito de la figura 2-1, si 27 C pasa a través de la lampara en 9 segundos, ¿Cuál es la corriente en amperes?
+![image](https://user-images.githubusercontent.com/84585835/120604073-491c9f00-c412-11eb-9072-1409904c8f35.png)
 
 25.-Si 250 μC pasan a través de amperímetro de a figura 2-32 en 5 ms, ¿Cuál será la lectura del medidor?
+![image](https://user-images.githubusercontent.com/84585835/120605231-73229100-c413-11eb-8427-21172bd98e19.png)
 
 26.-Si la corriente I = 4 A en la figura 2-1, ¿Cuántos coulombs pasan a traves de la lampara en 7 ms?
+![image](https://user-images.githubusercontent.com/84585835/120606361-bc271500-c414-11eb-8e63-e871f2f4ff9d.png)
 
 27.- ¿Cuánta carga pasa a traves del circuito de la figura 2-25 en 20 ms?
+![image](https://user-images.githubusercontent.com/84585835/120606493-db25a700-c414-11eb-9bf5-919775de99a0.png)
 
 28.- ¿Cuánta tiempo le toma a una carga de 100 μC psar por un punto si la corriente es de 25 mA?
+![image](https://user-images.githubusercontent.com/84585835/120606995-5edf9380-c415-11eb-8ec6-7a80de8768b7.png)
 
 29.-Si 93.6x10^12 electrones pasan a traves de una lampara en 5 ms, ¿Cuál es la corriente?
+![image](https://user-images.githubusercontent.com/84585835/120607935-41f79000-c416-11eb-82b8-6241d9a30c49.png)
 
 30.-La carga que pasa a traves de un alambre está dada por q=10t + 4, donde q está en coulombs y t en segundos.
 
 a. ¿Cuánta carga ha pasado en t = 5s?
+![image](https://user-images.githubusercontent.com/84585835/120609005-66a03780-c417-11eb-87e0-97072877a5a9.png)
 
 b. ¿Cuánta carga ha pasado en t = 8s?
+![image](https://user-images.githubusercontent.com/84585835/120609053-76b81700-c417-11eb-8943-7752643ae2bf.png)
 
 c. ¿Cuál es la corriente en aperes? 
-
+![image](https://user-images.githubusercontent.com/84585835/120609090-7f105200-c417-11eb-8861-2a4223b1a441.png)
 
 31.-La carga que pasa a traves de un alambre es q=(80t+20)C.¿Cual es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
 
+a. ¿Cuánta carga ha pasado en t = 2s?
+![image](https://user-images.githubusercontent.com/84585835/120611775-22626680-c41a-11eb-8098-620261c6d415.png)
+
+b. ¿Cuánta carga ha pasado en t = 4s?
+![image](https://user-images.githubusercontent.com/84585835/120611800-29897480-c41a-11eb-896c-e4a596036cac.png)
+
+c. ¿Cuál es la corriente en aperes? 
+![image](https://user-images.githubusercontent.com/84585835/120611847-33ab7300-c41a-11eb-96dc-4c1a999e3d76.png)
+
 32.- ¿Cuánto tiempo le tome a 312x10^19 electrones a traves de la lampara de la figura 2-32 si la lectura del amperímetro es de 8 A?
+![image](https://user-images.githubusercontent.com/84585835/120612216-943ab000-c41a-11eb-81ce-b53fc64d149f.png)
 
 33.-Si se requieren 1 353.6J para mover 47x10^19 electrones a traves de la lampara de la figura 2-32 en 1.3min, ¿Cuánto valen E e I?
+![image](https://user-images.githubusercontent.com/84585835/120613455-e16b5180-c41b-11eb-8743-1200e027192b.png)
 
-2-5 Fuentes de voltaje de cd prácticas.
+**2-5 Fuentes de voltaje de cd prácticas.**
 
 34.- ¿Qué se entiende por cd?,¿Y ca?
+
+•	Lo que se entiende por las siglas cd es corriente continua.
+•	Lo que se entiende por las siglas ca es corriente alterna.
 
 35.-Considere tres baterías conectadas como en la figura 2-33.
 
 a. Si E1 =1.47 V, E2 = 1.61 V y E3 = 1.58 V, ¿Cuánto vale ET?
+![image](https://user-images.githubusercontent.com/84585835/120616974-4d02ee00-c41f-11eb-8f3f-06ab91e2a3bb.png)
 
 b. Si se invierte la conexión a la fuente 3, ¿Cuánto vale ET?
+![image](https://user-images.githubusercontent.com/84585835/120617012-555b2900-c41f-11eb-8d1d-9d1deed84825.png)
 
 36.- ¿Cómo se carga una batería secundaria? Haga un bosquejo. ¿Se puede cargar una batería primaria?
+![image](https://user-images.githubusercontent.com/84585835/120617912-2b563680-c420-11eb-9189-622f024eed5d.png)
+
+Si se puede caragar la bateria primaria porque se puede decir que si se descarga la bateria primaria l podemos cargar con una secundaria.
 
 37.-Una batería especificada en 1 400 mAh suministra 28 mA a una carga. ¿Cuánto tiempo se espera que dure?
 
