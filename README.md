@@ -408,14 +408,17 @@ e. Un electrón y un neutrón separados 5.7x10^(-11)
 ![image](https://user-images.githubusercontent.com/84585835/120604380-9f89dd80-c412-11eb-8d3f-8609971e5983.png)
 
 22.-Si el voltaje entre dos puntos es de 100V, ¿Cuánta energía se requiere para mover un electrón entre los dos puntos?
+
 ![image](https://user-images.githubusercontent.com/84585835/120602918-16be7200-c411-11eb-992c-d8fd7574f9e1.png)
 
 23.-Dado un voltaje de 12V para la batería de la figura 2-1, ¿Cuánta carga se mueve a través de a lampara si se requieren 57 J de energía para moverla?
+
 ![image](https://user-images.githubusercontent.com/84585835/120603565-cc89c080-c411-11eb-9185-572d3c968bf0.png)
 
 **2-4 Corriente**
 
 24.-Para el circuito de la figura 2-1, si 27 C pasa a través de la lampara en 9 segundos, ¿Cuál es la corriente en amperes?
+
 ![image](https://user-images.githubusercontent.com/84585835/120604073-491c9f00-c412-11eb-9072-1409904c8f35.png)
 
 25.-Si 250 μC pasan a través de amperímetro de a figura 2-32 en 5 ms, ¿Cuál será la lectura del medidor?
