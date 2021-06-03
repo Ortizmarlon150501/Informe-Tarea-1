@@ -24,7 +24,6 @@ Considerar la Taxonomía de Bloom
 
 
 # Explicacion  y resolucion de ejercicios o problemas
-
 Capitulo 1
 
 1-3. Conversión de unidades 
@@ -175,9 +174,222 @@ Notación de potencias de 10
 
 ![image](https://user-images.githubusercontent.com/84412132/120574270-9da92580-c3e4-11eb-968b-27b490982a0d.png)
 
+36.) La fuerza gravitacional entre dos cuerpos es F=6.6726X10^(-11)  m1m2/r^2  N, donde las masas m1 y m2 están en kilogramos y la distancia r entre los centros gravitacionales está en metros. Si el cuerpo 1 es una esfera con radio de 5000 millas y densidad de 25 kg/m3, y el cuerpo 2 es una esfera de diámetro de 20 000 km y densidad de 12 kg/m3. ¿Cuál es la fuerza gravitacional entre ellos?
+![image](https://user-images.githubusercontent.com/84587118/120579779-b4a04580-c3ed-11eb-87ae-c2decc1aeb55.png)
+![image](https://user-images.githubusercontent.com/84587118/120579917-e4e7e400-c3ed-11eb-9439-3572875215af.png)
+
+1-5 Prefijos, notación de ingeniería y resultados numéricos
+
+37. ¿Cuál es el prefijo apropiado y su abreviatura para cada uno de los siguientes multiplicadores? 
+![image](https://user-images.githubusercontent.com/84587118/120580072-2bd5d980-c3ee-11eb-8b70-e595d2534af0.png)
+
+38. Exprese lo siguiente en términos de sus abreviaturas, es decir, microwatts como uW. Ponga atención en las mayúsculas (esto es, V no v, para volts)
+
+![image](https://user-images.githubusercontent.com/84587118/120584938-78251780-c3f6-11eb-96e9-3b3f7e7a2f8b.png)
 
 
 
+39. Exprese lo siguiente en la notación de ingeniería más práctica (esto es, 12708s = 1.27 ms).
+
+![image](https://user-images.githubusercontent.com/84587118/120580152-4740e480-c3ee-11eb-897a-3278062c39e1.png)
+
+40. Convierta lo siguiente:
+
+![image](https://user-images.githubusercontent.com/84587118/120581417-680a3980-c3f0-11eb-9e86-d9fbbc7f12b5.png)
+
+
+41. Determine los valores que se deben insertar en el espacio en blanco.
+
+![image](https://user-images.githubusercontent.com/84587118/120580397-bfa7a580-c3ee-11eb-9f32-bea9c056123e.png)
+
+42. Realice las operaciones y exprese las respuestas en las unidades que se indica
+
+![image](https://user-images.githubusercontent.com/84587118/120580657-2fb62b80-c3ef-11eb-9a18-6103cd123d87.png)
+
+43. Realice las operaciones y exprese las respuestas en las unidades que se indican.
+
+![image](https://user-images.githubusercontent.com/84587118/120580872-7d329880-c3ef-11eb-87d2-7a46d1bdd6b8.png)
+
+44. El voltaje de una línea de transmisión de alto voltaje es de 1.15x10^5 V. ¿Cuál es el voltaje en kV?
+
+![image](https://user-images.githubusercontent.com/84587118/120580951-9c312a80-c3ef-11eb-894c-76dd1868f6e5.png)
+
+45. Se compra un radiador eléctrico de 1500 W para calentar una habitación. ¿Cuántos kW es esta cantidad?
+
+![image](https://user-images.githubusercontent.com/84587118/120581262-2083ad80-c3f0-11eb-9786-7a8bcb6c7b4a.png)
+
+46. Considere la figura 1-11. Como aprenderá en el capítulo 6, I4=I1+I2+I3.Si I1=1.25mA, I2=350 uA e I3=250x10^(-5) A. ¿cuánto vale I4?
+
+![image](https://user-images.githubusercontent.com/84587118/120581640-bfa8a500-c3f0-11eb-8a19-08790d8803b4.png)
+
+47. Para la figura 1-12, I1+I2-I3+I4=0. Si I1= 12 A, I2=0.150 kA e I4= 250x10^(-1) A, ¿cuánto vale I3?
+
+![image](https://user-images.githubusercontent.com/84587118/120581718-e7980880-c3f0-11eb-823e-1d5d1b4db0ec.png)
+
+48. En cierto circuito electrónico, V1=V2-V3-V4. Si V1=120MV,V2=5000uV y V3=20x10^(-4) V , ¿cuánto vale V4?
+
+![image](https://user-images.githubusercontent.com/84587118/120581759-f8e11500-c3f0-11eb-9627-73f7868f149d.png)
+
+49. Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39 mmfd. Después de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. Consulte la tabla 1-6, ¿cuál será el valor equivalente a 39 “micromicrofarads”?
+
+![image](https://user-images.githubusercontent.com/84587118/120582040-68570480-c3f1-11eb-90e6-b91ef8d7c287.png)
+
+50. a. Si 0.045 coulomb de carga (pregunta 29) pasan a través de un alambre en 15 ms, ¿a cuántos electrones equivale esto? 
+
+![image](https://user-images.githubusercontent.com/84587118/120582079-7c9b0180-c3f1-11eb-9592-443e2a08b264.png)
+
+b. Con una rapidez de 9.36x10^(-19)  electrones por segundo, ¿cuántos coulombs pasan por un punto de alambre en 20 us? 
+
+![image](https://user-images.githubusercontent.com/84587118/120582120-92102b80-c3f1-11eb-9511-88a6c28a585e.png)
+
+51. Una señal de radio viaja a 299 792.458 km/s y una señal telefónica a 150 m/s. Si ambas se originan en el mismo punto, ¿cuál llega primero a un destino alejado 5000 km? ¿Cuánto tiempo pasa entre la llegada de una y otra?
+
+![image](https://user-images.githubusercontent.com/84587118/120582170-a6542880-c3f1-11eb-8cba-26f40f491ebe.png)
+
+![image](https://user-images.githubusercontent.com/84587118/120582245-c388f700-c3f1-11eb-96fc-cc91de792241.png)
+
+52. En el capítulo 4 aprenderá que la potencia de cd está dada por el producto del voltaje y la corriente, esto es, P = V * I watts.
+
+ a. Si V = 50 V e I = 24 mA (ambos valores exactos), ¿cuánto vale P en watts?
+
+![image](https://user-images.githubusercontent.com/84587118/120582489-25e1f780-c3f2-11eb-9e7c-b5b67c0dcce9.png)
+
+
+b. Si el voltaje se mide con un voltímetro como V= 50.0 +-0.1 volts y la corriente se mide con un amperímetro como I=24.0 +-0.1 mA, ¿qué concluye acerca de P con base en los valores medidos? 
+
+Podemos observar que al medir tanto la corriente como la intensidad tiene un valor de error de más, menos 0.1 lo cual hace al cálculo de P más preciso.
+
+53. En el capítulo 4 aprenderá que la resistencia está dada por la razón entre el voltaje y la corriente, es decir, R = V/I ohms. 
+
+a. Si V = 50 V e I =24 mA (ambos valores exactos), ¿cuánto vale R? 
+
+![image](https://user-images.githubusercontent.com/84587118/120582542-3c884e80-c3f2-11eb-8257-767ce6ca599b.png)
+
+b. Si el voltaje se mide como V =50.0+-0.1 volts y la corriente como I=24.0 +-0.1 mA, ¿qué concluye acerca de R con base en los valores medidos?
+
+Como vemos, tanto el voltaje como la corriente tienen una cantidad de error el hace la respuesta mas precisa.
+
+54. El componente soldado en el circuito impreso de la Figura 1-13(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8 +-0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45 mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación.
+
+![image](https://user-images.githubusercontent.com/84587118/120582630-66da0c00-c3f2-11eb-9133-cbeff728ffd5.png)
+
+# Ejericio  Capitulo 2
+
+1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos? 
+
+a. 1 metro cúbico de cobre 
+
+El cobre es un elemento de la tabla periódica que tiene 8.5x10^28 electrones libres por metro cubico
+
+b. Un alambre de cobre de 5 metros de longitud cuyo diámetro es 0.163 cm
+
+![image](https://user-images.githubusercontent.com/84587118/120582793-b91b2d00-c3f2-11eb-9341-de4d8be79f63.png)
+
+2. Dos cargas están separadas por cierta distancia, como en la figura 2-31, ¿cómo se ve afectada la fuerza entre ellas si:
+
+a. ¿Se duplica la magnitud de ambas cargas? 
+
+Dado que la fuerza electromagnética es directamente proporcional a las magnitudes de las cargas, por consecuencia la fuerza electromagnética seria mayor.
+
+b. ¿Se triplica la distancia entre ellas?
+
+Por otro lado, el radio o distancia que separa a ambas cargas en inversamente proporcional a la fuerza, lo que provocaría que, al aumentarse, la fuerza que entre ambas disminuya.
+
+3. Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ellas se reduce a la mitad, ¿cómo se ve afectada la fuerza?
+
+![image](https://user-images.githubusercontent.com/84587118/120583365-afde9000-c3f3-11eb-9695-4f2e2628c416.png)
+
+4. Cierto material tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor?
+
+![image](https://user-images.githubusercontent.com/84587118/120583387-be2cac00-c3f3-11eb-98db-62ad0bc0dd44.png)
+
+5. a. ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
+
+![image](https://user-images.githubusercontent.com/84587118/120583430-d3a1d600-c3f3-11eb-8794-afcc341931d8.png)
+
+ b. Además de ser un buen conductor, mencione otras dos razones por las que el cobre es ampliamente usado.
+ 
+ ![image](https://user-images.githubusercontent.com/84587118/120583848-8d00ab80-c3f4-11eb-8898-aac5aba8ce1a.png)
+
+c. ¿Qué hace que un material sea buen aislante? 
+
+![image](https://user-images.githubusercontent.com/84587118/120583867-9a1d9a80-c3f4-11eb-9265-e506325efb63.png)
+
+d. Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
+
+![image](https://user-images.githubusercontent.com/84587118/120583901-a9044d00-c3f4-11eb-9b4c-d50ab88cd34e.png)
+
+6. a. Aunque el oro es muy caro, en ocasiones se usa en electrónica como recubrimiento en contactos. ¿Por qué?
+
+![image](https://user-images.githubusercontent.com/84587118/120583943-b6213c00-c3f4-11eb-80f8-d7522b8bafb4.png)
+
+ b. ¿Por qué algunas veces se usa el aluminio cuando su conductividad es sólo 60% de la del cobre?
+ 
+ ![image](https://user-images.githubusercontent.com/84587118/120583997-c76a4880-c3f4-11eb-9904-1e1f5647c79f.png)
+
+7. Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuándo es de atracción y cuándo de repulsión. 
+
+a. Una carga de ¿1 uC y una carga de +7 uC, separadas 10 mm 
+
+![image](https://user-images.githubusercontent.com/84587118/120584262-3f387300-c3f5-11eb-86ef-d43155488adb.png)
+
+
+b. Q1 = 8 uC y Q2 = -4 uC, separados 12 cm 
+
+![image](https://user-images.githubusercontent.com/84587118/120584299-57a88d80-c3f5-11eb-92a4-b92c1986be16.png)
+
+
+c. Dos electrones separados 12x10^(-8) m
+
+![image](https://user-images.githubusercontent.com/84587118/120584380-7eff5a80-c3f5-11eb-9f38-0e5b3486eab4.png)
+
+
+ d. Un electrón y un protón separados 5.3x10^(-11)  m 
+ 
+![image](https://user-images.githubusercontent.com/84587118/120584444-9f2f1980-c3f5-11eb-8ee0-fe5c0658c1ad.png)
+
+
+e. Un electrón y un neutrón separados 5.7x10^(-11)
+
+![image](https://user-images.githubusercontent.com/84587118/120584482-b0782600-c3f5-11eb-81fe-1cd7b786cbe4.png)
+
+8. ¿Qué significado tiene decir que un cuerpo está “cargado”?
+
+![image](https://user-images.githubusercontent.com/84587118/120584518-c0900580-c3f5-11eb-9947-627779c43694.png)
+
+9. La fuerza entre dos cargas, una positiva y una negativa, separadas 2 cm es de 180 N. Si Q1= 4 C, ¿cuánto vale Q2?,¿la fuerza es de atracción o de repulsión?
+
+![image](https://user-images.githubusercontent.com/84587118/120584559-d271a880-c3f5-11eb-9416-a38ddca8e476.png)
+
+10. Si se pudiera colocar una carga de 1 C en cada uno de dos cuerpos que están separados 25 cm de centro a centro, ¿cuál sería la fuerza entre ellas en newtons?, ¿y en toneladas?
+
+![image](https://user-images.githubusercontent.com/84587118/120584596-e1585b00-c3f5-11eb-99c2-780b3c50e554.png)
+
+11. La fuerza de repulsión entre dos cargas separadas 50 cm es de 0.02 N. Si Q2=5Q1, determine las cargas y su posible signo.
+
+![image](https://user-images.githubusercontent.com/84587118/120584628-efa67700-c3f5-11eb-91e8-84bcf6835870.png)
+
+![image](https://user-images.githubusercontent.com/84587118/120584653-fb923900-c3f5-11eb-8614-eb5109f812a4.png)
+
+12. ¿Cuántos electrones representa una carga de 1?63 uC?
+
+![image](https://user-images.githubusercontent.com/84587118/120585036-aa367980-c3f6-11eb-8e5d-997e098b0847.png)
+
+
+13. Determina la carga en 19x10^13 electrones.
+
+![image](https://user-images.githubusercontent.com/84587118/120584724-18c70780-c3f6-11eb-9c0d-41da8f1b0860.png)
+
+14. Una placa de metal eléctricamente neutra adquiere una carga negativa de 47 uC. ¿Cuántos electrones se le agregaron?
+
+![image](https://user-images.githubusercontent.com/84587118/120584754-27adba00-c3f6-11eb-9796-9669880c6b18.png)
+
+15. A una placa de metal se le han adicionado 14.6x10^13 electrones y posteriormente se le agrega una carga de 1.3 uC. Si la carga final en la placa es de 5.6 uC, ¿cuál fue la carga inicial?
+
+
+16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
+
+![image](https://user-images.githubusercontent.com/84587118/120584813-41e79800-c3f6-11eb-82f1-ffc5c6c92d18.png)
 
 VIDEO
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
