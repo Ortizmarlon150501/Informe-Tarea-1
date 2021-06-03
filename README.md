@@ -500,6 +500,7 @@ Si se puede caragar la bateria primaria porque se puede decir que si se descarga
 37.-Una batería especificada en 1 400 mAh suministra 28 mA a una carga. ¿Cuánto tiempo se espera que dure?
 
 38.- ¿Cuál es la vida de servicio aproximada de la celda D de a tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA? ¿Qué concluye de estos resultados? 
+
 ![image](https://user-images.githubusercontent.com/84585835/120619956-1b3f5680-c422-11eb-9c70-c3ac743b20c2.png)
 
 •	Se concluye que a mayor cantidad de consumo de corriente es menor el tiempo de duración y a menor cantidad de consumo de corriente mayor el tiempo de duración.
