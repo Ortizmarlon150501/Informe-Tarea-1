@@ -20,8 +20,9 @@ Comprender los fundamentos básicos de los circuitos eléctricos los cuales se p
 ![image](https://user-images.githubusercontent.com/84587118/120565658-30d95f80-c3d3-11eb-9b6b-bf87c30be24b.png)
 
 
-# Explicacion  y resolucion de ejercicios o problemas
-Capitulo 1
+# Explicación  y resolucion de ejercicios o problemas
+
+# Ejercicios Capitulo 1
 
 1-3. Conversión de unidades 
 1.	Realice las siguientes conversiones 
