@@ -392,6 +392,8 @@ e. Un electrón y un neutrón separados 5.7x10^(-11)
 ![image](https://user-images.githubusercontent.com/84587118/120584813-41e79800-c3f6-11eb-82f1-ffc5c6c92d18.png)
 
 17.-Si se requieren 360 Joules de energía para transferir 15 C de carga a través de la lampara de la figura 2-1, ¿Cuál es el voltaje de la batería?
+![image](https://user-images.githubusercontent.com/84585835/120599973-d1e50c00-c40d-11eb-8401-3bab844da8eb.png)
+
 
 18.-Si se requiere de 600 J de energía para mover 9.36x10^19 electrones de un punto a otro, ¿Cuál es la diferencia de potencial entre los dos puntos?
 
