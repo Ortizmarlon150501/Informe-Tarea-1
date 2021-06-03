@@ -425,6 +425,7 @@ e. Un electrón y un neutrón separados 5.7x10^(-11)
 ![image](https://user-images.githubusercontent.com/84585835/120605231-73229100-c413-11eb-8427-21172bd98e19.png)
 
 26.-Si la corriente I = 4 A en la figura 2-1, ¿Cuántos coulombs pasan a traves de la lampara en 7 ms?
+
 ![image](https://user-images.githubusercontent.com/84585835/120606361-bc271500-c414-11eb-8e63-e871f2f4ff9d.png)
 
 27.- ¿Cuánta carga pasa a traves del circuito de la figura 2-25 en 20 ms?
@@ -439,23 +440,29 @@ e. Un electrón y un neutrón separados 5.7x10^(-11)
 30.-La carga que pasa a traves de un alambre está dada por q=10t + 4, donde q está en coulombs y t en segundos.
 
 a. ¿Cuánta carga ha pasado en t = 5s?
+
 ![image](https://user-images.githubusercontent.com/84585835/120609005-66a03780-c417-11eb-87e0-97072877a5a9.png)
 
 b. ¿Cuánta carga ha pasado en t = 8s?
+
 ![image](https://user-images.githubusercontent.com/84585835/120609053-76b81700-c417-11eb-8943-7752643ae2bf.png)
 
 c. ¿Cuál es la corriente en aperes? 
+
 ![image](https://user-images.githubusercontent.com/84585835/120609090-7f105200-c417-11eb-8861-2a4223b1a441.png)
 
 31.-La carga que pasa a traves de un alambre es q=(80t+20)C.¿Cual es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
 
 a. ¿Cuánta carga ha pasado en t = 2s?
+
 ![image](https://user-images.githubusercontent.com/84585835/120611775-22626680-c41a-11eb-8098-620261c6d415.png)
 
 b. ¿Cuánta carga ha pasado en t = 4s?
+
 ![image](https://user-images.githubusercontent.com/84585835/120611800-29897480-c41a-11eb-896c-e4a596036cac.png)
 
 c. ¿Cuál es la corriente en aperes? 
+
 ![image](https://user-images.githubusercontent.com/84585835/120611847-33ab7300-c41a-11eb-96dc-4c1a999e3d76.png)
 
 32.- ¿Cuánto tiempo le tome a 312x10^19 electrones a traves de la lampara de la figura 2-32 si la lectura del amperímetro es de 8 A?
@@ -474,9 +481,11 @@ c. ¿Cuál es la corriente en aperes?
 35.-Considere tres baterías conectadas como en la figura 2-33.
 
 a. Si E1 =1.47 V, E2 = 1.61 V y E3 = 1.58 V, ¿Cuánto vale ET?
+
 ![image](https://user-images.githubusercontent.com/84585835/120616974-4d02ee00-c41f-11eb-8f3f-06ab91e2a3bb.png)
 
 b. Si se invierte la conexión a la fuente 3, ¿Cuánto vale ET?
+
 ![image](https://user-images.githubusercontent.com/84585835/120617012-555b2900-c41f-11eb-8d1d-9d1deed84825.png)
 
 36.- ¿Cómo se carga una batería secundaria? Haga un bosquejo. ¿Se puede cargar una batería primaria?
