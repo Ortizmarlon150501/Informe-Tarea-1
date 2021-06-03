@@ -470,7 +470,10 @@ c. ¿Cuál es la corriente en aperes?
 ![image](https://user-images.githubusercontent.com/84585835/120612216-943ab000-c41a-11eb-81ce-b53fc64d149f.png)
 
 33.-Si se requieren 1 353.6J para mover 47x10^19 electrones a traves de la lampara de la figura 2-32 en 1.3min, ¿Cuánto valen E e I?
-![image](https://user-images.githubusercontent.com/84585835/120613455-e16b5180-c41b-11eb-8743-1200e027192b.png)
+
+![image](https://user-images.githubusercontent.com/84585835/120624852-b803f300-c426-11eb-9365-ba24002826e8.png)
+
+![image](https://user-images.githubusercontent.com/84585835/120624906-c4884b80-c426-11eb-9056-b946a4ba5e90.png)
 
 **2-5 Fuentes de voltaje de cd prácticas.**
 
