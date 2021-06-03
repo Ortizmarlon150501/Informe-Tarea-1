@@ -24,10 +24,13 @@ Considerar la Taxonomía de Bloom
 
 
 # Explicacion  y resolucion de ejercicios o problemas
+Capitulo 1
+
 1-3. Conversión de unidades 
 1.	Realice las siguientes conversiones 
 
-![image](https://user-images.githubusercontent.com/84412132/120571453-c67aec00-c3df-11eb-9883-c7be6cb651cd.png)
+![image](https://user-images.githubusercontent.com/84412132/120575211-3c825180-c3e6-11eb-8b78-05df3d96b9d2.png)
+
 
 2.	Realice las siguientes conversiones
 
@@ -100,7 +103,8 @@ Considerar la Taxonomía de Bloom
 
 19. Su jefe de planta le pide investigar dos máquinas. El costo de electricidad para la operación de la maquina #1 es de 43 centavos/minuto, mientras que para la maquina #2 es de $200 por turno de 8 horas. El precio de compra, la capacidad de producción, los costos de mantenimiento y la confiabilidad a largo plazo de ambas maquinas son idénticos. Con base en esta información, ¿qué máquina debería comprar y por qué?
 
-![image](https://user-images.githubusercontent.com/84412132/120573045-9719ae80-c3e2-11eb-8df6-5f242e78117d.png)
+![image](https://user-images.githubusercontent.com/84412132/120574862-aa7a4900-c3e5-11eb-9875-ec6e1c526037.png)
+
 
 20.  Dado que 1 hp = 550 ft-lb/s, 1 ft = 0.3048m, 1 lb=4.448N, 1 J = N-m y 1 W = 1 J/s, demuestre que 1 jp = 746 W.
 
@@ -135,7 +139,7 @@ Notación de potencias de 10
 
 27. Realice:
 
-![image](https://user-images.githubusercontent.com/84412132/120573844-e3b1b980-c3e3-11eb-9e2c-e8a9cecab297.png)
+![image](https://user-images.githubusercontent.com/84412132/120574948-d269ac80-c3e5-11eb-90d9-45841e5a682d.png)
 
 
 28. Exprese cada una de las siguientes cantidades en notación convencional.
@@ -174,7 +178,7 @@ Notación de potencias de 10
 
 
 
-# VIDEO
+VIDEO
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
 
 # Conclusiones
