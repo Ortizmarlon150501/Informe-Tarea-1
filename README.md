@@ -20,9 +20,8 @@ Comprender los fundamentos básicos de los circuitos eléctricos los cuales se p
 ![image](https://user-images.githubusercontent.com/84587118/120565658-30d95f80-c3d3-11eb-9b6b-bf87c30be24b.png)
 
 
-# Explicación  y resolucion de ejercicios o problemas
-
-# Ejercicios Capitulo 1
+# Explicacion  y resolucion de ejercicios o problemas
+Capitulo 1
 
 1-3. Conversión de unidades 
 1.	Realice las siguientes conversiones 
@@ -500,6 +499,8 @@ Si se puede caragar la bateria primaria porque se puede decir que si se descarga
 
 37.-Una batería especificada en 1 400 mAh suministra 28 mA a una carga. ¿Cuánto tiempo se espera que dure?
 
+![image](https://user-images.githubusercontent.com/84585835/120671065-a33f5380-c456-11eb-8e48-0c7b866eb658.png)
+
 38.- ¿Cuál es la vida de servicio aproximada de la celda D de a tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA? ¿Qué concluye de estos resultados? 
 
 ![image](https://user-images.githubusercontent.com/84585835/120619956-1b3f5680-c422-11eb-9c70-c3ac743b20c2.png)
@@ -510,10 +511,13 @@ Si se puede caragar la bateria primaria porque se puede decir que si se descarga
 
 40.-Se espera que la batería de la figura 2-15 dure 17h con un consumo de corriente de 1.5A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo de corriente de 0.8 A?
 
+![image](https://user-images.githubusercontent.com/84585835/120671127-b3573300-c456-11eb-9c91-b6c3e233f8e6.png)
+
 41.-En el trabajo de ingeriría em ocasiones se tiene que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA. ¿Cuál es el tiempo estimado (en horas) que será capaz de usar?
 2-6 Medición de voltaje y corriente
 
 42.- El voltímetro digital de la figura 2-34 tiene la característica de auto polaridad. Para cada caso, determine su lectura.
+
 ![image](https://user-images.githubusercontent.com/84585835/120620540-addff580-c422-11eb-9142-a48876520b33.png)
 
 •	(a) = 25 V
@@ -538,6 +542,8 @@ Si se puede caragar la bateria primaria porque se puede decir que si se descarga
 
 ![image](https://user-images.githubusercontent.com/84585835/120623916-c7cf0780-c425-11eb-9fd8-788ed0ed59c7.png)
 
+No existe un error porque si da ese valor de voltaje en ese punto donde se esta midiendo.
+
 45.- ¿Cuál es el error con el esquema de medición que se muestra en a figura 2-36? Corríjalo.
 
 ![image](https://user-images.githubusercontent.com/84585835/120622070-18ddfc00-c424-11eb-81bd-c6e8d6fe7dc2.png)
@@ -553,7 +559,7 @@ El error es que se esta midiendo en paralelo la corriente y de debe medir en ser
 •	Esto es  porque al especificar el voltaje y la corriente del fusible no dice cual su resistencia y si sobre pasan este limitante se funde el fusible y deja de hacer la acción de portector. 
 
 # VIDEO
-https://youtu.be/fE0bMedfo-Y
+https://youtu.be/ufbyRHpvj4U
 
 # Conclusiones
 Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos
