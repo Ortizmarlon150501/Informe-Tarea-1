@@ -396,14 +396,19 @@ e. Un electrón y un neutrón separados 5.7x10^(-11)
 
 
 18.-Si se requiere de 600 J de energía para mover 9.36x10^19 electrones de un punto a otro, ¿Cuál es la diferencia de potencial entre los dos puntos?
+![image](https://user-images.githubusercontent.com/84585835/120600548-84b56a00-c40e-11eb-9235-9e85e12a4c80.png)
 
 19.-Si se requiere de 1.2kJ de energía para mover 500 mC de un punto a otro, ¿Cuál es el voltaje entre los dos puntos?
+![image](https://user-images.githubusercontent.com/84585835/120601212-47051100-c40f-11eb-8e09-bb7ce507a420.png)
 
 20.- ¿Cuánta energía se requiere para mover 20 mC de carga a través de la lampara de la figura 2-23?
+![image](https://user-images.githubusercontent.com/84585835/120601817-03f76d80-c410-11eb-9630-cab10cd111ef.png)
 
 21.- ¿Cuánta energía adquiere una carga de 0.5 μC conforme se mueve a través de una diferencia de potencial de 8.5kV?
+![image](https://user-images.githubusercontent.com/84585835/120602621-d19a4000-c410-11eb-8946-8c600ee1905f.png)
 
 22.-Si el voltaje entre dos puntos es de 100V, ¿Cuánta energía se requiere para mover un electrón entre los dos puntos?
+![image](https://user-images.githubusercontent.com/84585835/120602918-16be7200-c411-11eb-992c-d8fd7574f9e1.png)
 
 23.-Dado un voltaje de 12V para la batería de la figura 2-1, ¿Cuánta carga se mueve a través de a lampara si se requieren 57 J de energía para moverla?
 2-4 Corriente
