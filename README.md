@@ -509,12 +509,16 @@ Si se puede caragar la bateria primaria porque se puede decir que si se descarga
 
 39.-La batería de la de la figura 2-15 está especificada en 81 Ah a 5°C. ¿Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5 A a -15°C.
 
+![image](https://user-images.githubusercontent.com/84585835/120674576-d7684380-c459-11eb-8fe3-324d65cb2699.png)
+
 40.-Se espera que la batería de la figura 2-15 dure 17h con un consumo de corriente de 1.5A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo de corriente de 0.8 A?
 
 ![image](https://user-images.githubusercontent.com/84585835/120671127-b3573300-c456-11eb-9c91-b6c3e233f8e6.png)
 
 41.-En el trabajo de ingeriría em ocasiones se tiene que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA. ¿Cuál es el tiempo estimado (en horas) que será capaz de usar?
 2-6 Medición de voltaje y corriente
+
+![image](https://user-images.githubusercontent.com/84585835/120675085-61b0a780-c45a-11eb-9b37-2c339ebdb538.png)
 
 42.- El voltímetro digital de la figura 2-34 tiene la característica de auto polaridad. Para cada caso, determine su lectura.
 
