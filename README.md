@@ -391,7 +391,47 @@ e. Un electrón y un neutrón separados 5.7x10^(-11)
 
 ![image](https://user-images.githubusercontent.com/84587118/120584813-41e79800-c3f6-11eb-82f1-ffc5c6c92d18.png)
 
-VIDEO
+17.-Si se requieren 360 Joules de energía para transferir 15 C de carga a través de la lampara de la figura 2-1, ¿Cuál es el voltaje de la batería?
+18.-Si se requiere de 600 J de energía para mover 9.36x10^19 electrones de un punto a otro, ¿Cuál es la diferencia de potencial entre los dos puntos?
+19.-Si se requiere de 1.2kJ de energía para mover 500 mC de un punto a otro, ¿Cuál es el voltaje entre los dos puntos?
+20.- ¿Cuánta energía se requiere para mover 20 mC de carga a través de la lampara de la figura 2-23?
+21.- ¿Cuánta energía adquiere una carga de 0.5 μC conforme se mueve a través de una diferencia de potencial de 8.5kV?
+22.-Si el voltaje entre dos puntos es de 100V, ¿Cuánta energía se requiere para mover un electrón entre los dos puntos?
+23.-Dado un voltaje de 12V para la batería de la figura 2-1, ¿Cuánta carga se mueve a través de a lampara si se requieren 57 J de energía para moverla?
+2-4 Corriente
+24.-Para el circuito de la figura 2-1, si 27 C pasa a través de la lampara en 9 segundos, ¿Cuál es la corriente en amperes?
+25.-Si 250 μC pasan a través de amperímetro de a figura 2-32 en 5 ms, ¿Cuál será la lectura del medidor?
+26.-Si la corriente I = 4 A en la figura 2-1, ¿Cuántos coulombs pasan a traves de la lampara en 7 ms?
+27.- ¿Cuánta carga pasa a traves del circuito de la figura 2-25 en 20 ms?
+28.- ¿Cuánta tiempo le toma a una carga de 100 μC psar por un punto si la corriente es de 25 mA?
+29.-Si 93.6x10^12 electrones pasan a traves de una lampara en 5 ms, ¿Cuál es la corriente?
+30.-La carga que pasa a traves de un alambre está dada por q=10t + 4, donde q está en coulombs y t en segundos.
+a. ¿Cuánta carga ha pasado en t = 5s?
+b. ¿Cuánta carga ha pasado en t = 8s?
+c. ¿Cuál es la corriente en aperes? 
+31.-La carga que pasa a traves de un alambre es q=(80t+20)C.¿Cual es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
+32.- ¿Cuánto tiempo le tome a 312x10^19 electrones a traves de la lampara de la figura 2-32 si la lectura del amperímetro es de 8 A?
+33.-Si se requieren 1 353.6J para mover 47x10^19 electrones a traves de la lampara de la figura 2-32 en 1.3min, ¿Cuánto valen E e I?
+2-5 Fuentes de voltaje de cd prácticas.
+34.- ¿Qué se entiende por cd?,¿Y ca?
+35.-Considere tres baterías conectadas como en la figura 2-33.
+a. Si E1 =1.47 V, E2 = 1.61 V y E3 = 1.58 V, ¿Cuánto vale ET?
+b. Si se invierte la conexión a la fuente 3, ¿Cuánto vale ET?
+36.- ¿Cómo se carga una batería secundaria? Haga un bosquejo. ¿Se puede cargar una batería primaria?
+37.-Una batería especificada en 1 400 mAh suministra 28 mA a una carga. ¿Cuánto tiempo se espera que dure?
+38.- ¿Cuál es la vida de servicio aproximada de la celda D de a tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA? ¿Qué concluye de estos resultados? 
+39.-La batería de la de la figura 2-15 está especificada en 81 Ah a 5°C. ¿Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5 A a -15°C.
+40.-Se espera que la batería de la figura 2-15 dure 17h con un consumo de corriente de 1.5A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo de corriente de 0.8 A?
+41.-En el trabajo de ingeriría em ocasiones se tiene que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA. ¿Cuál es el tiempo estimado (en horas) que será capaz de usar?
+2-6 Medición de voltaje y corriente
+42.- El voltímetro digital de la figura 2-34 tiene la característica de auto polaridad. Para cada caso, determine su lectura.
+43.-La corriente en el circuyo de la figura 2-35 es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente? (a)El medidor 1, (b)el medidor 3(c)ambos.
+44.- ¿Cuál es el error en la afirmación de que el voltaje a traves de la lampara de la figura 2.24 es 70.3 V?
+45.- ¿Cuál es el erro con el esquema de medición que se muestra en a figura 2-36? Corríjalo.
+46.-Se desea controlar la luz de una lampara mediante dos interruptores, como se indica en la tabla 2-2. Dibuje el circuito requerido.
+47.-Los fusibles tiene una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tiene una especificación de voltaje. ¿Por qué? Surgerencia:lea la sección de aislante, sección 2-1.
+
+# VIDEO
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
 
 # Conclusiones
