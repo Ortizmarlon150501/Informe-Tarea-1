@@ -533,11 +533,13 @@ Si se puede caragar la bateria primaria porque se puede decir que si se descarga
 44.- ¿Cuál es el error en la afirmación de que el voltaje a traves de la lampara de la figura 2.24 es 70.3 V?
 
 45.- ¿Cuál es el error con el esquema de medición que se muestra en a figura 2-36? Corríjalo.
+
 ![image](https://user-images.githubusercontent.com/84585835/120622070-18ddfc00-c424-11eb-81bd-c6e8d6fe7dc2.png)
 
 El error es que se esta midiendo en paralelo la corriente y de debe medir en serie.
 
 46.-Se desea controlar la luz de una lampara mediante dos interruptores, como se indica en la tabla 2-2. Dibuje el circuito requerido.
+
 ![image](https://user-images.githubusercontent.com/84585835/120621979-0663c280-c424-11eb-88d0-ed739f74dc85.png)
 
 47.-Los fusibles tiene una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tiene una especificación de voltaje. ¿Por qué? Surgerencia:lea la sección de aislante, sección 2-1.
