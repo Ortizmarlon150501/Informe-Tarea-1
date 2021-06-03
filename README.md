@@ -426,10 +426,11 @@ e. Un electrón y un neutrón separados 5.7x10^(-11)
 
 26.-Si la corriente I = 4 A en la figura 2-1, ¿Cuántos coulombs pasan a traves de la lampara en 7 ms?
 
-![image](https://user-images.githubusercontent.com/84585835/120606361-bc271500-c414-11eb-8e63-e871f2f4ff9d.png)
+![image](https://user-images.githubusercontent.com/84585835/120619445-97856a00-c421-11eb-80ad-340b6afc0e01.png)
 
 27.- ¿Cuánta carga pasa a traves del circuito de la figura 2-25 en 20 ms?
-![image](https://user-images.githubusercontent.com/84585835/120606493-db25a700-c414-11eb-9bf5-919775de99a0.png)
+
+![image](https://user-images.githubusercontent.com/84585835/120619361-84729a00-c421-11eb-84f6-3511b895dbf6.png)
 
 28.- ¿Cuánta tiempo le toma a una carga de 100 μC psar por un punto si la corriente es de 25 mA?
 ![image](https://user-images.githubusercontent.com/84585835/120606995-5edf9380-c415-11eb-8ec6-7a80de8768b7.png)
