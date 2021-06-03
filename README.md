@@ -36,7 +36,7 @@ Considerar la Taxonomía de Bloom
 
 3. Establezca los factores de conversión, calcule lo siguiente y exprese las respuestas en las unidades que se indican.
 
-![image](https://user-images.githubusercontent.com/84412132/120571727-57ea5e00-c3e0-11eb-909a-b4e0aeef3997.png)
+![image](https://user-images.githubusercontent.com/84412132/120574593-3cce1d00-c3e5-11eb-9f8b-89540bbf5322.png)
 
 4.  Un ventilador eléctrico gira a 300 revoluciones por minuto. A cuanto equivale en grados por segundo
 
