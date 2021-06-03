@@ -24,6 +24,7 @@ Considerar la Taxonomía de Bloom
 
 
 # Explicacion  y resolucion de ejercicios o problemas
+
 Capitulo 1
 
 1-3. Conversión de unidades 
