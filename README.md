@@ -9,6 +9,7 @@ Comprender los fundamentos básicos de los circuitos eléctricos los cuales se p
 **Objetivo especifico**
 
 •	Entender los conceptos básicos sobre los sistemas de unidades, notaciones, prefijos, diagramas etc., para lograr llegar a tener una base sobre los circuitos eléctricos y como relacionan estos conceptos entre sí.
+
 •	Analizar la parte teórica de los dos concepto fundamentales de los circuitos que es el voltaje y la corriente y su aplicabilidad de esta parte teórica en ejercicios y así entender de mejor manera estoy conceptos
 
 
