@@ -482,6 +482,8 @@ c. ¿Cuál es la corriente en aperes?
 
 35.-Considere tres baterías conectadas como en la figura 2-33.
 
+![image](https://user-images.githubusercontent.com/84585835/120624018-de755e80-c425-11eb-8ba8-f65fca5a56f0.png)
+
 a. Si E1 =1.47 V, E2 = 1.61 V y E3 = 1.58 V, ¿Cuánto vale ET?
 
 ![image](https://user-images.githubusercontent.com/84585835/120616974-4d02ee00-c41f-11eb-8f3f-06ab91e2a3bb.png)
@@ -530,7 +532,9 @@ Si se puede caragar la bateria primaria porque se puede decir que si se descarga
 
 ![image](https://user-images.githubusercontent.com/84585835/120620897-08795180-c423-11eb-8b09-26ecb92da23b.png)
 
-44.- ¿Cuál es el error en la afirmación de que el voltaje a traves de la lampara de la figura 2.24 es 70.3 V?
+44.- ¿Cuál es el error en la afirmación de que el voltaje a traves de la lampara de la figura 2-24 es 70.3 V?
+
+![image](https://user-images.githubusercontent.com/84585835/120623916-c7cf0780-c425-11eb-9fd8-788ed0ed59c7.png)
 
 45.- ¿Cuál es el error con el esquema de medición que se muestra en a figura 2-36? Corríjalo.
 
